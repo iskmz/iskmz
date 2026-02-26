@@ -1,8 +1,8 @@
 
-<a href="https://www.credly.com/badges/21f851d2-eb42-4b59-91c7-bf79916a75cc/public_url"> Oracle </a>
+<a href="https://www.credly.com/badges/21f851d2-eb42-4b59-91c7-bf79916a75cc/public_url" target="_blank"> Oracle </a>
 
 
-<a href=""> Python </a>
+<a href="https://www.credly.com/badges/5fc6c146-3341-4d3b-9936-8ad50cd4059e/public_url" target="_blank"> Python </a>
 
 
 <!--
